@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo Tangmo
+echo ZyGen Group
